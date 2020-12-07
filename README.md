@@ -3,6 +3,8 @@
 <!--
 **yoonbr/yoonbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Github Stats](https://github-readme-stats.vercel.app/api?yoonbr=biud436&show_icons=true)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
