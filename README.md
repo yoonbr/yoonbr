@@ -1,5 +1,5 @@
-### :sunflower:IT's br/😁:sunflower:
-<br/>
+## :sunflower:IT's br/:sunflower:
+
 <h2> :ledger: Learning Languages and Tools :pencil2: </h2>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
