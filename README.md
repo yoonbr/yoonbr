@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-<h2> My Status </h2>
+<h2> :seedling:My Status </h2>
 
 ![yoonbr's github stats](https://github-readme-stats.vercel.app/api?username=yoonbr&show_icons=true&icon&theme=buefy&hide_border=true&hide=prs,issues,contribs)
 
