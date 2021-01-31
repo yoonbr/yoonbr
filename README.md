@@ -17,3 +17,4 @@
 ![yoonbr's github stats](https://github-readme-stats.vercel.app/api?username=yoonbr&show_icons=true&icon&theme=buefy&hide_border=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoonbr&repo=Java)](https://github.com/yoonbr/Java.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoonbr&repo=Kotlin)](https://github.com/yoonbr/Kotlin.git)
