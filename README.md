@@ -16,5 +16,6 @@
 
 ![yoonbr's github stats](https://github-readme-stats.vercel.app/api?username=yoonbr&show_icons=true&icon&theme=buefy&hide_border=true&hide=prs,issues,contribs)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoonbr&repo=Kotlin)](https://github.com/yoonbr/Kotlin.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoonbr&repo=Swift)](https://github.com/yoonbr/Swift.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yoonbr&repo=Kotlin)](https://github.com/yoonbr/Kotlin.git)
+
