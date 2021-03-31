@@ -1,4 +1,4 @@
-<h1>Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> IT's br/:sunflower:</h1>
+<h1>Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm br/:sunflower:</h1>
 <br/>
 <h2> :ledger: Learning Languages and Tools :pencil2: </h2>
 
