@@ -1,6 +1,7 @@
 <h1>Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm br/:sunflower:</h1>
 
 [:seedling: Notion](https://www.notion.so/Study-98a1fde5d4724d50adc576f0ed06600b)
+<br/>
 
 <h2> :ledger: Learning Languages and Tools :pencil2: </h2>
 
