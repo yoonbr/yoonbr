@@ -1,8 +1,5 @@
-<h1>Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> I'm br/:sunflower:</h1>
 
-<br/>
-
-<h2> :ledger: Learning Languages and Tools :pencil2: </h2>
+<br<h2> :ledger: Learning Languages and Tools :pencil2: </h2>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
